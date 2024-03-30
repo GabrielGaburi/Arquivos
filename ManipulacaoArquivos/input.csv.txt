@@ -1,0 +1,4 @@
+TV LED, 1290, 1
+Playstation, 3500, 3
+Xiaomi, 1900, 2
+Disco Dissection, 666.66, 5
